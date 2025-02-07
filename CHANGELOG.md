@@ -1,3 +1,6 @@
+## 2.5.1
+* Fixes false decline on iOS
+
 ## 2.5.0
 * update jvmToolchain(17) for Android
 
